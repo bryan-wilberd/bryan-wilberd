@@ -1,6 +1,6 @@
-Hello, the name is Bryan
-Im currently learning GitHub
-Im also a part of the group SilmeDev
+- Hello, the name is Bryan
+- Im currently learning GitHub
+- Im also a part of the group SilmeDev
 
 <!--
 **bryan-wilberd/bryan-wilberd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
